@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526737774529",
+    "firebase_url": "https://etscars-app.firebaseio.com",
+    "project_id": "etscars-app",
+    "storage_bucket": "etscars-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526737774529:android:3e4c07a61847a8b9",
+        "android_client_info": {
+          "package_name": "com.etscars.etspassenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526737774529-8v7q9rav5u105qkq993na2t3nbmfl65q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etscars.etspassenger",
+            "certificate_hash": "5d54b2e60d8456429d727afd34b2701062080ad5"
+          }
+        },
+        {
+          "client_id": "526737774529-78uc7p8sc39v1ecpkpne561up12cusgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLCVK2RsVnNWVLMv5MZDvPMA7Hbb2-GWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526737774529-78uc7p8sc39v1ecpkpne561up12cusgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
